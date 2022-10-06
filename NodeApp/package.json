@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Fisrt expressjs app",
+  "main": "myapp.js",
+  "scripts": {
+    "start":"myapp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Favour",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
